@@ -1,6 +1,6 @@
 # Printing directly to a POS58 USB Thermal Receipt Printer using Linux/Raspberry Pi
 
-This is a demo program to print to the POS58 USB thermal receipt printer using Python under Linux
+This is a demo program to print to the POS58 (aka ZJ-5890K) USB thermal receipt printer using Python under Linux
 (tested on a Raspberry Pi). This is printer labeled under different companies, but is made by 
 Zijiang. See http:zijiang.com.
 

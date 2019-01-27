@@ -63,3 +63,8 @@ Install libusb 1.0:
 ```
 sudo apt install libusb-1.0-0-dev
 ```
+And that's it. Happy printing!
+
+# Other projects
+
+See my blog for other interesting projects at [https://vince.patronweb.com](https://vince.patronweb.com)
